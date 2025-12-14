@@ -2,7 +2,7 @@
 
 > Data-driven insights from running an in-house analytics shop at a live entertainment venue
 
-Welcome fellow data enthusiasts! This repository showcases analytics work I did while operating PianoFight, a theater and bar venue in San Francisco. I built an in-house "Venue Analytics Shop" to understand our business better and (hopefully) make more money 💰
+Welcome fellow data enthusiasts! This repository showcases analytics work I did while operating PianoFight, a theater and bar venue in San Francisco. I built an in-house "Venue Analytics Shop" to understand our business better and (hopefully) make more money 
 
 All analyses are based on ticketing data retrieved from the Eventbrite API, processed using R for statistical analysis and visualization.
 
@@ -139,4 +139,4 @@ Feel free to open an issue or reach out!
 
 ---
 
-*Built with R, curiosity, and skepticism about "the way it's always been done"*
+*Built with R, curiosity, and skepticism of "the way it's always been done" *

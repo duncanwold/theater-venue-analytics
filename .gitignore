@@ -1,0 +1,33 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Data files (may contain real customer data)
+**/data/*.csv
+**/data/*.json
+**/data/*.xlsx
+
+# Keep example files
+!**/data/*example*.csv
+!**/data/*sample*.csv
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files
+*.pdf
+*.html
+output/
+
+# Keep visualization PNGs
+!*.png

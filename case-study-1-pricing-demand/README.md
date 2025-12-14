@@ -1,6 +1,6 @@
 # Case Study #1: Do higher priced tickets drive down demand?
 
-:data_party: **Hello fellow data enthusiasts!** :data_party:
+**Hello fellow data enthusiasts!**
 
 I've really enjoyed all the data insights being shared, and so I wanted to contribute a few of my own. Back in my venue operator days, I started an in house Venue Analytics Shop, where I worked to understand our business better, and (hopefully) make us more money. 💰 Most insights were based off ticketing data retrieved from the Eventbrite API.
 
